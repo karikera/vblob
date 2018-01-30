@@ -1,0 +1,17 @@
+{
+  "name": "vblob",
+  "version": "1.0.0",
+  "description": "Virtual Blob Polyfill",
+  "main": "out/index.js",
+  "scripts": {
+    "test": "node out/test.js"
+  },
+  "author": "ruakr <karikera3@hotmail.com> (http://rua.kr)",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^9.4.0",
+    "@types/tmp": "0.0.33",
+    "eventtarget": "^0.1.0",
+    "tmp": "0.0.33"
+  }
+}
